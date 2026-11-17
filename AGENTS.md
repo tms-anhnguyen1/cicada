@@ -31,7 +31,7 @@ Cicada (知了, formerly Live Subs) turns what a computer plays into live transl
 
 - `Sources/Cicada`: the app, one concern per file. Engines are UI-free (`ListenEngine`, `SpeakEngine`, `Notes`, `Translator`, `Ling`, `VirtualMic`, `SessionStore`…); `AppModel` wires them and holds the debug commands. Settings keys: `AppSettings` in `Settings.swift`.
 - `Sources/CicadaIcon`: renders the icon set. `site/`: the website, built by `scripts/site.py`. `server/`: the Worker on cicada.indaloop.app (site, shared meetings); `node --test server/test/*.mjs` against `wrangler dev`.
-- The site is Chinese at `/`, English / Japanese / Korean under `/en/` `/ja/` `/ko/`; every `{{t.key}}` comes from `site/i18n/<lang>.json`. `start.html` is the setup page; its `img/start/` shots come from the app per language. `tools/`: test helpers. `Tests/CicadaTests`: unit tests for the pure parts.
+- The site is Chinese at `/`, the others under `/en/` `/ja/` `/ko/` `/vi/`; every `{{t.key}}` comes from `site/i18n/<lang>.json`. `start.html` is the setup page; its `img/start/` shots come from the app per language. `tools/`: test helpers. `Tests/CicadaTests`: unit tests for the pure parts.
 
 ## Commands
 
