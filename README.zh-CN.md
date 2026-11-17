@@ -27,7 +27,7 @@
 
 <p align="center">⭐ 觉得有用请点个 Star，方便随时找回</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
+<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.vi.md">Tiếng Việt</a></p>
 
 开会或看直播时，知了实时给双语字幕，边听边写结构化纪要。轮到你发言，按住说话键（Mac 右 `⌥`，Windows 右 `Ctrl`，没有右 Ctrl 可在设置里换）开口，对方直接在会里听到译文语音。知了直接听系统声音，不往会里塞机器人，对方完全无感。在 Apple 芯片的 Mac 上全部本机识别，声音不出电脑。
 

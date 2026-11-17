@@ -27,7 +27,7 @@
 
 <p align="center">⭐ 役に立ったら Star を。あとで見つけやすくなります</p>
 
-<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a></p>
+<p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.vi.md">Tiếng Việt</a></p>
 
 会議やライブ配信の間、Cicada はリアルタイムの二か国語字幕を出しながら、構造化された議事メモを書き進めます。発言するときは、話すキー（Mac は右の `⌥`、Windows は右の `Ctrl`、変更可）を押したまま話せば、翻訳された音声がそのまま会議の相手に届きます。システムの音声を直接読み取るため、会議にボットを入れる必要はなく、相手には気づかれません。Apple シリコンの Mac ではすべて端末内で認識するため、音声が外に出ることはありません。
 
